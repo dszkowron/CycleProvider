@@ -8,6 +8,6 @@ namespace CycleProvider_Library
 {
     public class CycleProvider
     {
-
+        pbulic
     }
 }
